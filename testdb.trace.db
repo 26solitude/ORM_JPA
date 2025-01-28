@@ -1,0 +1,11 @@
+2025-01-28 17:41:02.153985+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MEMEBER" already exists; SQL statement:
+CREATE TABLE MEMEBER (
+    ID VARCHAR(255) NOT NULL,
+    NAME VARCHAR(255),
+    AGE INTEGER NOT NULL,
+    PRIMARY KEY (ID)
+) [42101-232]
+2025-01-28 17:41:42.464476+09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MEMBER" not found; SQL statement:
+SELECT * FROM MEMBER [42102-232]
