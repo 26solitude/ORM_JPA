@@ -28,7 +28,6 @@ public class ExamMergeMain {
         tx1.begin();
 
         Member member = new Member();
-        member.setId(id);
         member.setUsername(username);
 
         em1.persist(member);
