@@ -1,6 +1,6 @@
 # ORM_JPA 예제 코드 저장소
 
-<img src="https://github.com/user-attachments/assets/79234963-5485-414a-b3ef-6f6d607c9f1d" width="400")
+<img src="https://github.com/user-attachments/assets/79234963-5485-414a-b3ef-6f6d607c9f1d" width="400">
 
 이 저장소는 **"ORM JPA"** 책의 예제 코드를 정리한 공간입니다. 각 챕터별로 JPA와 ORM의 개념을 학습하며 직접 구현한 코드를 포함하고 있으며, 현재 **5장까지** 구현된 상태입니다.
 
